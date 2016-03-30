@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/joelanford/wink",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "1600a4cd699d70009ec28edfd69d3568f6bd757d"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "33fa30fe45020622640e947917fd1fc4c81e3dce"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "33fa30fe45020622640e947917fd1fc4c81e3dce"
+		}
+	]
+}
