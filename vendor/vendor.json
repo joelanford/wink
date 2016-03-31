@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "9QKY4bQlbQ/VZZFP8/1WtH4b0mA=",
+			"path": "golang.org/x/net/context",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "mktBVED98G2vv+OKcSgtnFVZC1Y=",
+			"path": "golang.org/x/oauth2",
+			"revision": "33fa30fe45020622640e947917fd1fc4c81e3dce",
+			"revisionTime": "2016-03-25T10:08:19-07:00"
+		},
+		{
+			"checksumSHA1": "W/GiDqzsagBnR7/yEvxatMhUDBs=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "33fa30fe45020622640e947917fd1fc4c81e3dce",
+			"revisionTime": "2016-03-25T10:08:19-07:00"
+		}
+	],
+	"rootPath": "github.com/joelanford/wink"
+}
